@@ -92,7 +92,6 @@
                 <a href="team.php" class="nav-item nav-link <?php if($page== 'team.php'){echo 'active';}?>">Our Team</a>
                 <a href="contact.php" class="nav-item nav-link <?php if($page== 'contact.php'){echo 'active';}?>">Contact</a>
             </div>
-            <a href="" class="btn btn-primary py-2 px-4 d-none d-lg-block">Appointment</a>
         </div>
     </nav>
     <!-- Navbar End -->

@@ -81,7 +81,7 @@ if ($_SESSION['role'] == 1) {
 <?php
 
   get_footer();
-} {
+} else{
   header('Location: index.php');
 }
 ?>

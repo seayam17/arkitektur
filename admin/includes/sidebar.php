@@ -1,7 +1,7 @@
 <section>
     <div class="container-fluid content_part">
         <div class="row">
-            <div class="col-md-2 sidebar_part">
+            <div class="col-md-2 sidebar_part" style="min-height: 115vh;">
                 <div class="user_part">
                     <img class="" src="images/avatar.png" alt="avatar"/>
                     <h5><?= $_SESSION['name']; ?></h5>
@@ -16,6 +16,7 @@
                         <?php if($_SESSION['role']<=2){ ?>
                         <li><a href="all-banner.php"><i class="fas fa-images"></i> Banner</a></li>
                         <?php } ?>
+                        <li><a href="all-about.php"><i class="fas fa-address-card"></i> About</a></li>
                         <li><a href="all-message.php"><i class="fas fa-comments"></i> Contact Message</a></li>
                         <li><a href="all-fact.php"><i class="far fa-smile"></i> Fact</a></li>
                         <li><a href="#"><i class="fas fa-globe"></i> Live Site</a></li>

@@ -310,6 +310,10 @@ h6,
     z-index: -1;
 }
 
+#c_title{
+    flex-direction: column;
+}
+
 
 /*** Service ***/
 .service-item .bg-img {

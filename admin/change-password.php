@@ -95,7 +95,7 @@
 <?php
 
   get_footer();
-  }{
+  }else{
     header('Location: index.php');
   }
 ?>
