@@ -17,8 +17,13 @@
                         <li><a href="all-banner.php"><i class="fas fa-images"></i> Banner</a></li>
                         <?php } ?>
                         <li><a href="all-about.php"><i class="fas fa-address-card"></i> About</a></li>
+                        <li><a href="all-service.php"><i class="fas fa-cogs"></i> Service</a></li>
+                        <li><a href="all-project.php"><i class="fas fa-industry"></i> Project</a></li>
+                        <li><a href="all-team.php"><i class="fas fa-users"></i> Team</a></li>
                         <li><a href="all-message.php"><i class="fas fa-comments"></i> Contact Message</a></li>
+                        <li><a href="all-contacts.php"><i class="fas fa-comments"></i> Contact Information</a></li>
                         <li><a href="all-fact.php"><i class="far fa-smile"></i> Fact</a></li>
+                        <li><a href="all-footer.php"><i class="fas fa-hand-point-right"></i> Footer</a></li>
                         <li><a href="#"><i class="fas fa-globe"></i> Live Site</a></li>
                         <li><a href="logout.php"><i class="fas fa-sign-out-alt"></i> Logout</a></li>
                     </ul>
