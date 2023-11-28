@@ -50,7 +50,7 @@ if (!$con) {
             </div>
             <div class="col-lg-3 col-md-6">
                 <h3 class="text-light mb-4">Newsletter</h3>
-                <p>Dolor amet sit justo amet elitr clita ipsum elitr est.</p>
+                <p>We Like Working With Passionate People Who Know The Value Of What We Do— That Design Can Positively Shift The Way People Think.</p>
             </div>
         </div>
     </div>

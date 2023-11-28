@@ -54,8 +54,8 @@
         <div class="row gx-0 d-none d-lg-flex">
             <div class="col-lg-7 px-5 text-start">
                 <div class="h-100 d-inline-flex align-items-center py-3 me-3">
-                    <a class="text-body px-2" href="tel:+0123456789"><i class="fa fa-phone-alt text-primary me-2"></i>+012 345 6789</a>
-                    <a class="text-body px-2" href="mailto:info@example.com"><i class="fa fa-envelope-open text-primary me-2"></i>info@example.com</a>
+                    <a class="text-body px-2" href="tel:+0258817535"><i class="fa fa-phone-alt text-primary me-2"></i>+025 881 7535</a>
+                    <a class="text-body px-2" href="mailto:info@uysystems.com"><i class="fa fa-envelope-open text-primary me-2"></i>info@uysystems.com</a>
                 </div>
             </div>
             <div class="col-lg-5 px-5 text-end">
@@ -77,7 +77,7 @@
 
     <!-- Navbar Start -->
     <nav class="navbar navbar-expand-lg bg-white navbar-light sticky-top py-lg-0 px-lg-5 wow fadeIn" data-wow-delay="0.1s">
-        <a href="index.html" class="navbar-brand ms-4 ms-lg-0">
+        <a href="index.php" class="navbar-brand ms-4 ms-lg-0">
             <h1 class="text-primary m-0"><img class="me-3" src="img/icons/icon-1.png" alt="Icon">Arkitektur</h1>
         </a>
         <button type="button" class="navbar-toggler me-4" data-bs-toggle="collapse" data-bs-target="#navbarCollapse">
