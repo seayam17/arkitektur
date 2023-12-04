@@ -3,7 +3,12 @@
         <div class="row">
             <div class="col-md-2 sidebar_part" style="min-height: 115vh;">
                 <div class="user_part">
-                    <img class="" src="images/avatar.png" alt="avatar"/>
+                    <!-- <img class="" src="images/avatar.png" alt="avatar"/> -->
+                    <?php if($_SESSION['pic'] != ''){?>
+                        <img height="50px" src="uploads/<?= $_SESSION['pic']; ?>" alt="User">
+                    <?php } else {?>
+                        <img height="50px" src="images/avatar.png" alt="User">
+                    <?php } ?>
                     <h5><?= $_SESSION['name']; ?></h5>
                     <p><i class="fas fa-circle"></i> Online</p>
                 </div>

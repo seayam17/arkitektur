@@ -32,6 +32,7 @@
                                         $data=mysqli_fetch_assoc($Q);
                                         if($data){
                                             $_SESSION['id']=$data['user_id'];
+                                            $_SESSION['pic']=$data['user_photo'];
                                             $_SESSION['name']=$data['user_name'];
                                             $_SESSION['email']=$data['user_email'];
                                             $_SESSION['role']=$data['role_id'];
